@@ -4,6 +4,6 @@
 
 ### Github Analytics
 <a href="https://github.com/smalllo">
-  <img src="https://github-readme-stats.vercel.app/api?username=htchu&count_private=true&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smalllo&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
